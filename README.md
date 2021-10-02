@@ -12,3 +12,5 @@ The application is released partly with Dynamic link library made by Progress So
 >Also try RandomMaker v5.1.0!https://github.com/UWorldGX/RandomMkII
 >
 Have a good time~
+
+>RandomMaker is licensed under GNU LGPLv3, a free and open-source license. 
