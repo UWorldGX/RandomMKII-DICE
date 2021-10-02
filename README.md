@@ -9,6 +9,6 @@ It was developed by .NET Framework 4.8,so make sure you have installed .NET Fram
 >
 The application is released partly with Dynamic link library made by Progress Software Corporation.Thanks for their production.
 >
->Also try RandomMaker v5.1.0!
+>Also try RandomMaker v5.1.0!https://github.com/UWorldGX/RandomMkII
 >
 Have a good time~
